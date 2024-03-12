@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asp.Net_HW_Module_01_Ua.props" />
+</Project>
